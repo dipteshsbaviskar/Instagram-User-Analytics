@@ -5,11 +5,17 @@ Instagram User analysis involves tracking how users engage with a digital produc
 The project involved using structured query language (SQL) to analyze a relational database with tables containing information about users, photos, likes, and tags. Key focus areas included:
 
 1.Loyal User Reward Program: Identifying the oldest users on the platform to potentially reward loyalty.
+
 2.Inactive User Engagement: Finding users who never posted to re-engage them through promotional emails.
+
 3.Contest Management: Determining the user with the most likes on a single photo to declare a contest winner.
+
 4.Hashtag Research: Analyzing the most commonly used hashtags for strategic brand collaborations
+
 5.Ad Campaign Launch Timing: Discovering the most popular day of user registration to optimize ad campaign launches.
+
 6.User Engagement Metrics for Investors: Calculating the average number of posts per user to provide an understanding of overall platform activity.
+
 7.Detection of Bot and Fake Accounts: Identifying users who liked every post, which could indicate non-human behavior.
 
 
